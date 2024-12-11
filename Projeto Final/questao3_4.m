@@ -22,7 +22,7 @@ C = [1, 0, 0, 0];
 D = 0;
 
 % Definindo o peso em Q(1,1)
-rho = 500; 
+rho = 100; 
 Q = diag([rho, 0, 0, 0]); 
 R = 1;
 
